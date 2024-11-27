@@ -47,7 +47,7 @@ This project demonstrates a real-time image identification application using Str
 4. Run the application:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Usage
